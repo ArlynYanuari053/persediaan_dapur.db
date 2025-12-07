@@ -1,4 +1,4 @@
-# 🥫 Manajemen Persediaan Dapur (Python + SQLite)
+# 🥫 Manajer Persediaan Dapur (Python + SQLite)
 
 Program ini merupakan aplikasi sederhana berbasis **CLI (Command Line Interface)** yang digunakan untuk mengelola persediaan bahan dapur.  
 Aplikasi menyediakan fitur pencatatan stok, notifikasi bahan yang sudah kedaluwarsa, sorting data, hingga pengecekan bahan yang akan segera expired.
@@ -65,4 +65,5 @@ Tabel: `persediaan`
 
 ```bash
 python dapur_manager.py
+
 
